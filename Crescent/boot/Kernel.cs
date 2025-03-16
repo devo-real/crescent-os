@@ -20,7 +20,7 @@ namespace Crescent
     public class Kernel : Sys.Kernel
     {
         public static CosmosVFS fileSystem = new();
-        public static bool running = true; // This is to be enabled true by the bootloader.
+        public static bool running = true; 
 
         public static readonly string ROOTDISK = @"0:\";
         public static readonly string ROOTUSERNAME = "root";
