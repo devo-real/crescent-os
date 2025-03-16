@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNU-Crescent", "VNU-Crescent.csproj", "{F22B4CB7-A92E-4B9D-9057-87F592B30637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22B4CB7-A92E-4B9D-9057-87F592B30637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22B4CB7-A92E-4B9D-9057-87F592B30637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22B4CB7-A92E-4B9D-9057-87F592B30637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22B4CB7-A92E-4B9D-9057-87F592B30637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B62250-F68C-4AC3-95C8-B8AAF2AAE374}
+	EndGlobalSection
+EndGlobal
